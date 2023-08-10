@@ -1,0 +1,36 @@
+.team_container{
+    padding-top: 70px;
+    padding-left: 200px;
+    padding-right: 200px;
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    gap: 100px;
+}
+
+.team_container img{
+    width: auto;
+    height: 180px;
+    border-radius: 5px; 
+}
+
+.names_container{
+    padding-top: 50px;
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    font-size: 15px;
+}
+
+.links_container{
+    padding-top: 150px;
+    margin-bottom: 200px;
+    display: flex;
+    justify-content: center;
+}
+
+.links_container img{
+    width: 30px;
+    height: auto;
+    margin: 20px;
+}
