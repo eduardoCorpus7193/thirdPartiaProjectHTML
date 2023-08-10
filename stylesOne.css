@@ -1,0 +1,37 @@
+*{
+    font-family: sans-serif;
+    color: black;
+    background-color: rgb(174, 222, 253);
+}
+
+/*BARRA*/
+.name_container{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 20px;
+}
+
+.name_container{
+    padding-left: 60px;
+}
+
+.content_container{
+    margin: 150px 50px 0px 100px;
+}
+
+
+.welcomeBigtext_container{
+    font-size: 50px;
+}
+
+.welcomeSmalltext_container{
+    font-size: 25px;
+}
+
+.Definition_container{
+    padding-top: 120px;
+    font-size: 18px;
+}
+
+
